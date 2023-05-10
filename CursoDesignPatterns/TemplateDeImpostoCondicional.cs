@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CursoDesignPatterns
 {
-    public abstract class TemplateDeImpostoCondicional : Imposto
+    public abstract class TemplateDeImpostoCondicional// : Imposto
     {
         public double Calcula(Orcamento orcamento)
         {
